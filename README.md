@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🖍️ Here's some of my works that I have done during my free time : https://www.behance.net/cheenaeng
 - 🐶 I love my doggo <3 
 
-Technical skills: 
+**Technical skills:**
 - Javascript, Python, HTML/CSS,
 - NodeJS, ExpressJS,
 - ReactJS,ReactNative 
