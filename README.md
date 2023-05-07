@@ -12,9 +12,10 @@ Here are some ideas to get you started:
 - 🐶 I love my doggo <3 
 
 **Technical skills:**
-- Javascript, Python, HTML/CSS,
-- NodeJS, ExpressJS,
+- Javascript,Typescript, Python, HTML/CSS,
+- NodeJS, ExpressJS, GO
 - ReactJS,ReactNative 
+- NEXTJS 
 - Sequelize/postgreSQL
 - Bootstrap, ChakraUI, MaterialUI
 - Adobe Illustrator 
